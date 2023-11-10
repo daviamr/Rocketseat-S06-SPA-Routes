@@ -13,6 +13,7 @@ nav {
 /* header */
 header {
     padding: 1.6rem;
+    margin-bottom: 4.4rem;
 }
 
 nav {
@@ -31,4 +32,8 @@ nav a:hover {
 }
 
 /* main */
+main {
+    padding: 1.6rem;
+}
+
 /* footer */
