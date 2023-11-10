@@ -1,0 +1,21 @@
+@import './reset.css';
+@import './style.css';
+@import './responsivity.css';
+@import './scrollbar.css';
+
+/* default styles */
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+    --white: #FFFFFF;
+    --black: #000000;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+/* controls */
